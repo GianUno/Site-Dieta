@@ -1,3 +1,0 @@
-p.element:hover:after{
-    content:attr(title);
-  }
